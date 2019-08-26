@@ -1,5 +1,6 @@
 ---
 output: github_document
+bibliography: biblio.bib
 ---
 
 <!-- Este .md fue generado a partir del .Rmd homónimo. Edítese el .Rmd -->
@@ -8,23 +9,23 @@ output: github_document
 
 Voy a preguntar sobre las aportaciones más relevantes de un conjunto de hombres a la biogeografía. Aclaro que nuestra referencia principal está sesgada. La asignación final es un intento de reducción del referido sesgo.
 
-Estudia los capítulos 1 y 2 de "Lomolino, M. V., Riddle, B. R., Brown, J. H., & Brown, J. H. (2006). *Biogeography*. Sunderland, MA: Sinauer Associates". Alternativamente, puedes consultar la versión resumida de este tema mismo que se encuentra en [este vídeo de YouTube](https://www.youtube.com/watch?v=8uHnf_1W7D8), así como en [esta presentación de diapositivas]().???????????????????????????????????????????????????????????????????????????
+Estudia los capítulos 1 y 2 de @lomolino2006biogeography. Alternativamente, puedes consultar la versión resumida de este tema mismo que se encuentra en [este vídeo de YouTube](https://www.youtube.com/watch?v=8uHnf_1W7D8), así como en [esta presentación de diapositivas](https://drive.google.com/file/d/1H_pIGypKeFXAx1vVzqIcwV6HN2ByIhjT/view?usp=sharing).
 
 ## Preguntas/mandatos
 
-* ¿Cuántas citas aparecen en GoogleScholar para la obra de referencia (Lomolino *et al.*, 2006)?
+* ¿Cuántas citas aparecen en GoogleScholar para la obra de referencia @lomolino2006biogeography?
 
     Tu respuesta, aquí: ...
     
-* 
+* El clásico: ¿Qué es la biogeografía (no confundir con "biografía")? Pero no lo dejes en el refraseo de la definición leída en @lomolino2006biogeography. Busca también una definición de ecología, por ejemplo en la página 3 de @smith2007ecologia, y lee el prefacio de @macarthur1967. Nota también el tratamiento que @smith2007ecologia le da a la biogeografía. Explica entonces por qué ecología y biogeografía son parecidas o similares para muchos autores. ¿En qué podrían diferenciarse ecología y biogeografía?
 
     Tu respuesta, aquí: ...
 
-* 
+* ¿Por qué se considera que la biogeografía es una ciencia primordialmente observacional?
 
     Tu respuesta, aquí: ...
 
-* 
+* Pon dos 
 
     Tu respuesta, aquí: ...
 
@@ -49,3 +50,4 @@ Estudia los capítulos 1 y 2 de "Lomolino, M. V., Riddle, B. R., Brown, J. H., &
     Tu respuesta, aquí: ...
 
 
+# References
