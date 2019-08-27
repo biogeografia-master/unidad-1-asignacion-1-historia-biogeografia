@@ -3,46 +3,102 @@
 Introducción e historia de la biogeografía
 ==========================================
 
-Voy a preguntar sobre las aportaciones más relevantes de un conjunto de hombres a la biogeografía. Aclaro que nuestra referencia principal está sesgada. La asignación final es un intento de reducción del referido sesgo.
+Voy a preguntar sobre las aportaciones más relevantes de un conjunto de hombres a la biogeografía, dado que nuestra referencia principal está sesgada.
 
 Estudia los capítulos 1 y 2 de Lomolino et al. (2006). Alternativamente, puedes consultar la versión resumida de este tema mismo que se encuentra en [este vídeo de YouTube](https://www.youtube.com/watch?v=8uHnf_1W7D8), así como en [esta presentación de diapositivas](https://drive.google.com/file/d/1H_pIGypKeFXAx1vVzqIcwV6HN2ByIhjT/view?usp=sharing).
 
 Preguntas/mandatos
 ------------------
 
--   ¿Cuántas citas aparecen en GoogleScholar para la obra de referencia Lomolino et al. (2006)?
+-   ¿Cuántas citas aparecen en GoogleScholar para la obra de referencia (Lomolino et al. 2006)?
 
     Tu respuesta, aquí: ...
 
--   El clásico: ¿Qué es la biogeografía (no confundir con "biografía")? Pero no lo dejes en el refraseo de la definición leída en Lomolino et al. (2006). Busca también una definición de ecología, por ejemplo en la página 3 de T. M. Smith and Smith (2007), y lee el prefacio de MacArthur and Wilson (1967). Nota también el tratamiento que T. M. Smith and Smith (2007) le da a la biogeografía. Explica entonces por qué ecología y biogeografía son parecidas o similares para muchos autores. ¿En qué podrían diferenciarse ecología y biogeografía?
+-   El clásico: ¿Qué es la biogeografía (no confundir con "biografía")? Pero no lo dejes en el refraseo de una definición leída en Lomolino et al. (2006). Busca también una definición de ecología, por ejemplo en la página 3 de T. M. Smith and Smith (2007), en la página 7 de Lomolino et al. (2006), y en el prefacio de MacArthur and Wilson (1967). Nota también el tratamiento que T. M. Smith and Smith (2007) le da a la biogeografía. Explica entonces por qué ecología y biogeografía son parecidas para algunos autores. ¿Cuál o cuáles elementos contribuyen a diferenciar ecología y biogeografía?
 
     Tu respuesta, aquí: ...
 
--   ¿Por qué se considera que la biogeografía es una ciencia primordialmente observacional?
+-   En la página 11 de Lomolino et al. (2006) se atribuye un carácter primordialmente observacional a la biogeografía. ¿Qué argumentos usan los autores para apoyar tal afirmación?
 
     Tu respuesta, aquí: ...
 
--   Pon dos
+-   Estudia el siguiente texto de Tarbuck and Lutgens (2005), [mira este vídeo](https://www.ted.com/talks/naomi_oreskes_why_we_should_believe_in_science), y responde estas preguntas: ¿En qué se diferencia una hipótesis científica de una teoría científica? ¿Por qué entiendes que suele usarse la expresión "es una simple teoría"? Cita una hipótesis en ciencias naturales que haya sido rechazada.
+
+    > **Naturaleza de la investigación científica**
+    >
+    > Toda la ciencia se basa en la suposición de que el mundo natural se comporta de una manera constante y predecible que puede comprenderse mediante el estudio atento y sistemático. El objetivo general de la ciencia es descubrir los modelos subyacentes en la naturaleza y luego utilizar ese conocimiento para hacer predicciones sobre lo que cabría o no cabría esperar que ocurriera dados ciertos hechos y circunstancias. Por ejemplo, sabiendo cómo se forman los depósitos de petróleo, los geólogos pueden predecir los sitios más favorables para la exploración y, quizá igual de importante, cómo evitar las regiones con escaso o nulo potencial.
+    >
+    > El desarrollo de nuevos conocimientos científicos implica algunos procesos lógicos básicos que son universalmente aceptados. Para determinar qué está ocurriendo en el mundo natural, los científicos recogen «datos» científicos a través de la observación y la medida. Como el error es inevitable, la exactitud de una medida o una observación particulares es siempre cuestionable. No obstante, esos datos son esenciales para la ciencia y sirven como trampolín para el desarrollo de las teorías científicas
+    >
+    > **Hipótesis**
+    >
+    > Una vez recogidos los datos y formulados los principios que describen un fenómeno natural, los investigadores intentan explicar cómo o por qué las cosas suceden de la manera observada. Lo hacen elaborando una explicación provisional (o no probada), que denominamos una hipótesis científica o modelo. (El término modelo, aunque a menudo se utiliza como sinónimo de hipótesis, es un término menos preciso, ya que también se emplea a veces para describir una teoría científica.) Es mejor que un investigador pueda formular más de una hipótesis para explicar un conjunto determinado de observaciones. Si un solo investigador no puede idear múltiples modelos, los otros miembros de la comunidad científica desarrollarán casi siempre explicaciones alternativas. Con frecuencia, a todo ello le sigue un debate encendido. Como consecuencia, quienes proponen modelos opuestos llevan a cabo una investigación extensa y los resultados se ponen a disposición del resto de la comunidad científica a través de las publicaciones científicas.
+    >
+    > Antes de que una hipótesis sea aceptada como parte del conocimiento científico, debe someterse a pruebas y análisis objetivos. (Si una hipótesis no puede probarse, no es científicamente útil, por muy interesante que pueda parecer.) El proceso de verificación requiere que las predicciones se hagan según el modelo que se esté considerando y que las predicciones se prueben comparándolas con observaciones objetivas de la naturaleza. En otras palabras, las hipótesis deben poder aplicarse a observaciones distintas de las utilizadas para formularlas en primer lugar. A la larga, las hipótesis que suspenden esta prueba se descartan. La historia de la ciencia está repleta de hipótesis descartadas. Una de las mejor conocidas es la idea de que la Tierra era el centro del universo, una propuesta que se sustentaba en el aparente movimiento diario del Sol, la Luna y las estrellas alrededor de la Tierra. Como afirmó con tanta habilidad el matemático Jacob Bronowski: «La ciencia es muchas cosas, pero al final todos vuelven a esto: la ciencia es la aceptación de lo que funciona y el rechazo de lo que no lo hace».
+    >
+    > **Teoría**
+    >
+    > Cuando ha sobrevivido a una comprobación intensiva y cuando se han eliminado los modelos competidores, una hipótesis puede ser elevada al estatus de teoría científica. En el lenguaje cotidiano solemos decir «eso es sólo una teoría». Pero una teoría científica es una visión bien comprobada y ampliamente aceptada que, en opinión de la comunidad científica, es la que mejor explica ciertos hechos observables. Las teorías muy documentadas se sostienen con un elevado grado de confianza. Las teorías de esta talla con un gran alcance tienen un estatus especial. Se denominan paradigmas, porque explican una gran cantidad de aspectos interrelacionados del mundo natural. Por ejemplo, la teoría de la tectónica de placas es un paradigma de las ciencias geológicas que proporciona un marco para la comprensión del origen de las montañas, los terremotos y la actividad volcánica. Además, la tectónica de placas explica la evolución de los continentes y las cuencas oceánicas a lo largo del tiempo.
+    >
+    > **El método científico**
+    >
+    > El proceso que se acaba de describir, en el cual los investigadores recogen datos a través de observaciones y formulan hipótesis y teorías científicas, se denomina método científico. Al contrario de la creencia popular, el método científico no es una receta estándar que los científicos aplican de una manera rutinaria para desenmarañar los secretos de nuestro mundo natural. Antes bien, es una empresa que implica creatividad e intuición. Rutherford y Ahlgren (Rutherford and Ahlgren 1991) lo expresaron de esta forma: «Inventar hipótesis o teorías para imaginar cómo funciona el mundo y luego apañárselas para ponerlas a prueba con los hechos reales es tan creativo como escribir poesía, componer música o diseñar rascacielos»\*. No hay un camino fijo que los científicos puedan seguir siempre y les conduzca infaliblemente al conocimiento científico. No obstante, en muchas investigaciones científicas intervienen las siguientes etapas: (1) recogida de datos científicos a través de la observación y la medida; (2) desarrollo de una o varias hipótesis de trabajo que expliquen esos datos; (3) desarrollo de observaciones y experimentos para probar la hipótesis; y (4) aceptación, modificación o rechazo de las hipótesis sobre la base de extensas pruebas.
+    >
+    > Otros descubrimientos científicos pueden proceder de ideas simplemente teóricas, que se enfrentan resueltamente a un extenso examen. Algunos investigadores utilizan computadores de gran velocidad para simular lo que sucede en el mundo «real». Estos modelos son útiles para tratar los procesos naturales que suceden en escalas de tiempo muy largas o que se producen en lugares extremos o inaccesibles. También, otros avances científicos tienen lugar después de un suceso totalmente inesperado durante un experimento. Estos descubrimientos casuales son más que pura suerte; como dijo Louis Pasteur, «en el campo de la observación, la suerte favorece sólo a la mente preparada».
+    >
+    > El conocimiento científico se adquiere a través de varias vías, de modo que quizá sea mejor describir la naturaleza de la investigación científica como métodos de la ciencia y no como el método científico. Además, debe recordarse siempre que incluso las teorías científicas más convincentes siguen siendo sólo explicaciones simplificadas del mundo natural.
+
+    Tu respuesta, aquí: ...
+
+-   Lee este texto de Lomolino et al. (2006). No hay que hacer nada, simplemente compáralo con el anterior. Si quieres llevarlo al aula para discusión, pues perfecto.
+
+    > Traditional treatments of the philosophy of science usually devote considerable space to distinguishing between **inductive reasoning**—reasoning from specific observations to general principles—and **deductive reasoning**—reasoning from general constructs to specific cases. Several influential modern philosophers, especially Popper (1968), have strongly advocated so-called **hypothetico-deductive reasoning**. Any good scientific theory contains logical assumptions and consequences, and if any of these can be proven wrong, then the theory itself must be flawed. The hypothetico—deductive method provides a powerful means of testing a theory by setting up alternative, falsifiable hypotheses. First, an author puts forth a new, tentative idea, stated in clear, simple language, that can be tested and potentially falsified by means of experiments or observations. After the statement has withstood the severest empirical tests, it can be considered to be supported or corroborated, but by hypothetico-deductive logic, a theory can never be proven true, only falsified.
+
+-   Lee el resumen de contenido que hicieron los autores sobre la obra Lomolino et al. (2006), que podrás en la página 8, e intenta resumirlo en dos líneas.
+
+    Tu respuesta, aquí: ...
+
+-   Cita y describe dos temas recurrentes (muy habituales) en biogeografía.
+
+    Tu respuesta, aquí: ...
+
+-   Las dos ramas principales de la biogeografía son histórica y ecológica. Defínelas.
+
+    Tu respuesta, aquí: ...
+
+-   En la página 9 de Lomolino et al. (2006), hay una interesante discusión sobre dos conceptos relevantes: patrón y proceso. Defínelos aquí.
+
+    Tu respuesta, aquí: ...
+
+-   ¿Qué formulaba el uniformitarismo o actualismo? ¿A quién se atribuye? (final de página 11 y principio de la 12 en Lomolino et al. (2006))
+
+-   Escribe 4 disciplinas en la que se apoya la biogeografía.
+
+    Tu respuesta, aquí: ...
+
+-   Haz un repaso por la presentación de diapositivas, refuerza con fuentes alternas para responder a la siguiente pregunta: ¿Cuáles fueron los principales aportes **a la biogeografía** de las siguientes personas: Linneo, Leclerc, Banks, Forster, Humboldt, Candolle, Darwin, Sclater, Hooker, Wallace, Haeckel?
+
+    Tu respuesta, aquí: ...
+
+-   ¿Qué aportes de estos otros científicos influyeron en la biogeografía: Lyell, Hutton, Wegener?
+
+    Tu respuesta, aquí: ...
+
+-   ¿Qué defendían los "dispersionistas" (Darwin) y los "extensionistas" (Hooker-Lyell y otros), y en qué consistía la hipótesis del "inmutabilismo-estatismo" (Agassiz y otros)?
 
     Tu respuesta, aquí: ...
 
 -   Tu respuesta, aquí: ...
 
--   Tu respuesta, aquí: ...
-
--   Tu respuesta, aquí: ...
-
--   Tu respuesta, aquí: ...
-
--   MUJERES EN BIOGEOGRAFÍA
-
-    Tu respuesta, aquí: ...
-
-References
-==========
+Referencias
+===========
 
 Lomolino, Mark V, Brett R Riddle, James H Brown, and James H Brown. 2006. *Biogeography*. QH84 L65 2006. Sinauer Associates Sunderland, MA.
 
 MacArthur, RH, and EO Wilson. 1967. *The Theory of Island Biogeography*. Princeton Univ. Press, Princeton, NJ.
 
-Smith, Tomas M, and Robert L Smith. 2007. *Ecología*. Pearson Educación,
+Rutherford, F James, and Andrew Ahlgren. 1991. *Science for All Americans*. Oxford university press.
+
+Smith, Tomas M, and Robert L Smith. 2007. *Ecología*. Pearson Educación.
+
+Tarbuck, Edward J, and Frederick K Lutgens. 2005. “Ciencias de La Tierra.” Pearson Educación, 736.
